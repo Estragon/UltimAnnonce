@@ -1,0 +1,10 @@
+Le menu est en include dans toute les page.
+
+Index
+	creAnnonce -> saveAnnonce
+	
+	updateAnnonceChoix -> updateAnnonceList -> updateAnnonce -> updateAnnonceSave
+	
+	choixAnnonce ->  listAnnonce -> afficheAnnonce -> deleteAnnonce
+						       -> updateAnnonce
+	
