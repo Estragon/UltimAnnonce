@@ -6,6 +6,7 @@
 
 \f0\fs24 \cf0 Am\'e9lioration a faire :\
 \
+- G\'e9rer les caract\'e8res sp\'e9ciaux dans la cr\'e9a et motif d'annonce \
 - Ne pas pouvoir cr\'e9er d'annonce sans cat\'e9gorie \
 - Am\'e9lioration la suppression des annonce ( Ajax pour moins de page )\
 - Faire l'admin pour les types, les champs, les cat\'e9gories\
@@ -14,5 +15,4 @@
 - G\'e9rer les motif des input type="file" ( $_FILE)\
 - En supprimant une cat\'e9gorie, mettre les id_cat\'e9gorie de l'annonce a 0\
 	-pareil pour le model.\
-- Faire l'admin pour les mod\'e8les, les cat\'e9gories, les champs.\
-}
+- Faire l'admin pour les mod\'e8les, les cat\'e9gories, les champs.}
