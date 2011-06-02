@@ -15,4 +15,6 @@
 - G\'e9rer les motif des input type="file" ( $_FILE)\
 - En supprimant une cat\'e9gorie, mettre les id_cat\'e9gorie de l'annonce a 0\
 	-pareil pour le model.\
-- Faire l'admin pour les mod\'e8les, les cat\'e9gories, les champs.}
+- Faire l'admin pour les mod\'e8les, les cat\'e9gories, les champs.\
+zelkjr \
+}
